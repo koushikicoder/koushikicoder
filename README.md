@@ -24,8 +24,6 @@
 &nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)  
 &nbsp;&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YOUR_X_HANDLE)
-
 
 🛠️ **Tech Stack**
 
@@ -76,7 +74,8 @@
 
 📫 **Connect With Me**
 
-[![LinkedIn](https://www.linkedin.com/in/koushiki-ghosh-a10526288/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/koushiki-ghosh-a10526288/) 
+
 
 
 💬 **Random Dev Quote**
